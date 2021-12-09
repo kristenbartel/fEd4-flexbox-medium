@@ -1,0 +1,22 @@
+.nav-bar {
+    display: flex;
+    background-color: aquamarine;
+    padding: 2rem;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.nav-bar-menu {
+    display: flex;
+    padding: 1rem;
+    list-style-type: none
+}
+
+.nav-bar-item {
+    padding: 1rem;
+}
+
+ a {
+   text-decoration: none;
+   color: black;
+}
